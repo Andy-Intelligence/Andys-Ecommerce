@@ -1,0 +1,49 @@
+Example from blog collection:
+
+{
+"_id" : "60b49fd1692073f531271b24",
+"UserFields" : [],
+"Title" : "How GrandNode became the real open-source e-Commerce platform?",
+"PictureId" : null,
+"Body" : "<p>Body of the post</p>",
+"BodyOverview" : "<p> Body overview </p>",
+"AllowComments" : false,
+"CommentCount" : 0,
+"Tags" : "e-commerce, blog, moey",
+"StartDateUtc" : null,
+"EndDateUtc" : null,
+"MetaKeywords" : null,
+"MetaDescription" : null,
+"MetaTitle" : null,
+"LimitedToStores" : false,
+"Stores" : [],
+"Locales" : [],
+"SeName" : "how-grandnode-became-the-real-open-source-e-commerce-platform",
+"CreatedOnUtc" : ISODate("2021-05-31T08:35:29.226Z")
+}
+Example from news collection:
+
+{
+"_id" : " ",
+"UserFields" : [],
+"Title" : "About Grandnode",
+"PictureId" : null,
+"SeName" : "about-grandnode",
+"Short" : " Short description ",
+"Full" : "<p> Body of the news </p>",
+"Published" : true,
+"StartDateUtc" : null,
+"EndDateUtc" : null,
+"AllowComments" : false,
+"CommentCount" : 0,
+"LimitedToStores" : false,
+"Stores" : [],
+"Locales" : [],
+"MetaKeywords" : null,
+"MetaDescription" : null,
+"MetaTitle" : null,
+"CreatedOnUtc" : ISODate("2021-05-31T08:35:29.247Z"),
+"LimitedToGroups" : false,
+"CustomerGroups" : [],
+"NewsComments" : []
+}
